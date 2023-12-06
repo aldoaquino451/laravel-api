@@ -1,0 +1,9 @@
+@import '~bootstrap/scss/bootstrap';
+
+header {
+    height: 60px;
+}
+
+#my-home {
+    height: calc(100vh - 60px);
+}
